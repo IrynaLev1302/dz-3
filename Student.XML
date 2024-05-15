@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+	<firstname>Test</firstname>
+	<lastname>Testovyy</lasttname>
+	<age>18</age>
+	<gender>male</gender>
+	<birth_date>2006-02-13</birth_date>
+	<taxID>3035900000</taxID>
+	<address>
+		<city>kyiv</city>
+		<street>testova</street>
+		<house>7</house>
+	</address>
+	<study>
+		<faculty>finance</faculty>
+		<specialty>testova</specialty>
+	</study>
+	<subjects>
+		<subjects>finance</subjects>
+		<subjects>history</subjects>
+		<subjects>english</subjects>
+	</subjects>
+	<isactive>true</isactive>
+	<contacts>
+		<phone>380667777777</phone>
+		<email>test@test.me</email>
+	</contacts>
+</student>
