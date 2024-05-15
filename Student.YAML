@@ -1,0 +1,21 @@
+Student:
+	firstname: Test
+	lastname: Testovyy
+	age: 18
+	gender: male
+	birth_date: 2006-02-13
+	taxID: 3035900000
+	address: 
+		city: kyiv
+		street: testova
+		house: 5
+		apartment: 77
+    study: 
+		faculty: finance
+		specialty: testova
+		group: BS-991
+    subjects: [finance, history, math, english]
+    isactive: true
+	contacts: 
+		phone: 380667777777
+		email: test@test.me
